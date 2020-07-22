@@ -51,3 +51,30 @@ Ethereum Publish is a DApp for writers to publish their work :books: on ethereum
 > - Whenever you create account with same name which is used previously then metamask gives you a very high transaction fees because of modifiers used at solidity. So use different names everytime you register author and same as for reader 
 > - There are two transaction at the time of buying book so confirms both transaction.  If you alter url directly then it gives you a error page 
 > - If you reload a page then also it gives you error page. 
+
+## Screenshots
+| Name | Image |
+|---|---|
+|Books for buy|[Show](https://raw.githubusercontent.com/snakode/EthereumPublish/master/screenshots/Booka%20for%20buy.png)|
+|Books for read|[Show](https://raw.githubusercontent.com/snakode/EthereumPublish/master/screenshots/Booka%20for%20read.png)|
+|Configuration for cors-header|[Show](https://raw.githubusercontent.com/snakode/EthereumPublish/master/screenshots/configuration%20for%20cors-header.png)|
+|Ganache|[Show](https://raw.githubusercontent.com/snakode/EthereumPublish/master/screenshots/ganache.png)|
+|Homepage|[Show](https://raw.githubusercontent.com/snakode/EthereumPublish/master/screenshots/homepage.png)|
+|IPFS|[Show](https://raw.githubusercontent.com/snakode/EthereumPublish/master/screenshots/ipfs.png)|
+|Metamask accounts|[Show](https://raw.githubusercontent.com/snakode/EthereumPublish/master/screenshots/metamask%20accounts.png)|
+|Payment confirmation|[Show](https://raw.githubusercontent.com/snakode/EthereumPublish/master/screenshots/payment%20confirmation.png)|
+|Register book|[Show](https://raw.githubusercontent.com/snakode/EthereumPublish/master/screenshots/register%20book.png)|
+|Selection of account|[Show](https://raw.githubusercontent.com/snakode/EthereumPublish/master/screenshots/selection%20of%20account.png)|
+|Books|[Show](https://raw.githubusercontent.com/snakode/EthereumPublish/master/screenshots/book.png)|
+
+
+
+
+
+
+
+
+
+
+
+
