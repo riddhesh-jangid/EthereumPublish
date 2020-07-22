@@ -57,14 +57,14 @@ Ethereum Publish is a DApp for writers to publish their work :books: on ethereum
 |---|---|
 |Books for buy|[Show](https://raw.githubusercontent.com/snakode/EthereumPublish/master/screenshots/Booka%20for%20buy.png)|
 |Books for read|[Show](https://raw.githubusercontent.com/snakode/EthereumPublish/master/screenshots/Books%20for%20read.png)|
-|Configuration for cors-header|[Show](https://raw.githubusercontent.com/snakode/EthereumPublish/master/screenshots/coniguration%20for%20cors-header.png)|
-|Ganache|[Show](https://raw.githubusercontent.com/snakode/EthereumPublish/master/screenshots/ganache.png)|
-|Homepage|[Show](https://raw.githubusercontent.com/snakode/EthereumPublish/master/screenshots/homepage.png)|
-|IPFS|[Show](https://raw.githubusercontent.com/snakode/EthereumPublish/master/screenshots/ipfs.png)|
-|Metamask accounts|[Show](https://raw.githubusercontent.com/snakode/EthereumPublish/master/screenshots/metamask%20accounts.png)|
-|Payment confirmation|[Show](https://raw.githubusercontent.com/snakode/EthereumPublish/master/screenshots/payment%20confirmation.png)|
-|Register book|[Show](https://raw.githubusercontent.com/snakode/EthereumPublish/master/screenshots/register%20book.png)|
-|Selection of account|[Show](https://raw.githubusercontent.com/snakode/EthereumPublish/master/screenshots/selection%20of%20account.png)|
+|Configuration for cors-header|[Show](https://raw.githubusercontent.com/snakode/EthereumPublish/master/screenshots/Coniguration%20for%20cors-header.png)|
+|Ganache|[Show](https://raw.githubusercontent.com/snakode/EthereumPublish/master/screenshots/Ganache.png)|
+|Homepage|[Show](https://raw.githubusercontent.com/snakode/EthereumPublish/master/screenshots/Gomepage.png)|
+|IPFS|[Show](https://raw.githubusercontent.com/snakode/EthereumPublish/master/screenshots/IPFS.png)|
+|Metamask accounts|[Show](https://raw.githubusercontent.com/snakode/EthereumPublish/master/screenshots/Metamask%20Accounts.png)|
+|Payment confirmation|[Show](https://raw.githubusercontent.com/snakode/EthereumPublish/master/screenshots/Payment%20confirmation.png)|
+|Register book|[Show](https://raw.githubusercontent.com/snakode/EthereumPublish/master/screenshots/Register%20Book.png)|
+|Selection of account|[Show](https://raw.githubusercontent.com/snakode/EthereumPublish/master/screenshots/Selection%20of%20account.png)|
 |Books|[Show](https://raw.githubusercontent.com/snakode/EthereumPublish/master/screenshots/book.png)|
 
 
