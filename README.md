@@ -56,7 +56,7 @@ Ethereum Publish is a DApp for writers to publish their work :books: on ethereum
 | Name | Image |
 |---|---|
 |Books for buy|[Show](https://raw.githubusercontent.com/snakode/EthereumPublish/master/screenshots/Booka%20for%20buy.png)|
-|Books for read|[Show](https://raw.githubusercontent.com/snakode/EthereumPublish/master/screenshots/Booka%20for%20read.png)|
+|Books for read|[Show](https://raw.githubusercontent.com/snakode/EthereumPublish/master/screenshots/Books%20for%20read.png)|
 |Configuration for cors-header|[Show](https://raw.githubusercontent.com/snakode/EthereumPublish/master/screenshots/configuration%20for%20cors-header.png)|
 |Ganache|[Show](https://raw.githubusercontent.com/snakode/EthereumPublish/master/screenshots/ganache.png)|
 |Homepage|[Show](https://raw.githubusercontent.com/snakode/EthereumPublish/master/screenshots/homepage.png)|
