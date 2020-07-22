@@ -1,5 +1,5 @@
 # Ethereum Publish :gem:
-Ethereum Publish is a DApp for writers to publish their work :books: on ethereum public blockchain. Ethereum publish can protect author's works from theft and also save intermediate money which are taken by publishers. [:camera: Screenshot]
+Ethereum Publish is a DApp for writers to publish their work :books: on ethereum public blockchain. Ethereum publish can protect author's works from theft and also save intermediate money which are taken by publishers. [:camera: [Screenshot](https://github.com/snakode/EthereumPublish/blob/master/README.md#screenshots)]
 
 ## Dependencies
 `Node.js (v12.16.1)`
